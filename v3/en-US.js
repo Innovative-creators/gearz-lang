@@ -1,3 +1,7 @@
+exports.info = {
+	lang_name:        "English",
+	lang_short:       "en_US"
+};
 exports.texts = {
 			// cooldown
 			COOLDOWN_WAIT: (time, command) => `please wait ${time} more second(s) before reusing the \`${command}\` command.`,
