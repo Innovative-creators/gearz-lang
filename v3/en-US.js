@@ -1,6 +1,6 @@
 exports.info = {
-	lang_name:        "English",
-	lang_short:       "en_US"
+	    lang_name:        "English",
+	    lang_short:       "en_US"
 };
 exports.texts = {
 			// cooldown
@@ -47,7 +47,7 @@ exports.texts = {
 			VOICE_NOT_PLAYING: (status) => `I am not playing a song. Current status: \`${status}\``,
 			VOICE_QUEUE_NO_SONG: 'There is no song in the queue.',
 			VOICE_NOT_PAUSED: 'The stream is not paused.',
-			VOICE_RESUMED: '▶ Resumed',
+			VOICE_RESUMED: '▶ Resumed',  
 			VOICE_REPEAT_ENABLE: 'Music will now be repeated.',
 			VOICE_REPEAT_DISABLE: 'Music wont be repeated now.',
 
