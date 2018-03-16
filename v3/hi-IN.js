@@ -1,6 +1,6 @@
 this.info = {
-            lang_name: "Hindi",
-            lang_short: "hi-IN"
+      lang_name: "Hindi",
+      lang_short: "hi-IN"
 };
 
 this.texts = {
